@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="container">
         <Weather defaultCity="Paris" />
-        <footer className="text-muted">
+        <footer className="text-muted mt-3">
           This project was coded by{" "}
           <span className="myName">Elodie Nerjat</span> and is{" "}
           <a
